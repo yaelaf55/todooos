@@ -1,11 +1,11 @@
 {
-  "name": "todooos",
-  "short_name": "todooos",
+  "name": "החיים בבועה",
+  "short_name": "החיים בבועה",
   "start_url": "./index.html",
   "scope": "./",
   "display": "standalone",
-  "background_color": "#faf6ee",
-  "theme_color": "#5B4FA0",
+  "background_color": "#FBF9F5",
+  "theme_color": "#FBF9F5",
   "icons": [
     {
       "src": "icon-192.png",
